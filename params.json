@@ -1,0 +1,1 @@
+{"name":"Unicoder","tagline":"Javascript char to Java hexadecimal converter.","body":"# unicoder\r\nJavascript char to Java hexadecimal converter.\r\n\r\n\r\n## This is it:\r\n\r\n    '\\\\u00' + 'ç'.charCodeAt(0).toString(16).toUpperCase()\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
